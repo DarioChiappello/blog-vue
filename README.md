@@ -1,4 +1,8 @@
-# blog-vue
+# Blog-VueJS
+
+## Backend -> NodeJS- Express- MongoDB
+https://github.com/DarioChiappello/nodejs-blog-backend
+
 
 ## Project setup
 ```
